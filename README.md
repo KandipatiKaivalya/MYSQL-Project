@@ -45,6 +45,6 @@ Count total accidents reported in the last year.
 
 📂 Project Structure
 📦 Traffic-Management-SQL
- ┣ 📜 Traffic_Management_SQL_Project.docx   # Documentation
+ ┣ 📜 project documentation.pdf              # Documentation
  ┣ 📜 traffic_management.sql                 # SQL code file
  ┣ 📜 README.md                              # Project overview (this file)
